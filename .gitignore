@@ -2,4 +2,3 @@ trash_classification_model.keras
 .venv/
 .vscode/
 .ipynb_checkpoints/
-newBinModel.ipynb

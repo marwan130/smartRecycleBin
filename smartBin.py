@@ -55,7 +55,7 @@ while True:
             print(f"Detected: {label} ({conf:.2f})")
             
             if label:
-                print(f"Sent to Arduino: {label}")
+                print(f"sent to arduino: {label}")
                 ser1.write(label.encode())
                 
 

@@ -18,7 +18,6 @@ labelMapping = {
     "trash": "trash"
 }
 
-# serial settings
 arduinoPort = 'COM6'
 baudRate = 9600
 ser1 = serial.Serial('COM5', 9600)  
